@@ -4,7 +4,11 @@ config:
     map_start_location: [34.0412,-118.2334, 13]
     startscene: 'TOMUrbanTypologies'
     sceneslist: 'sceneslist.yaml'
+<<<<<<< HEAD
     debug: false
+=======
+    debug: true
+>>>>>>> cef8c1a746ea3c08a60d6ddc726dad52fced6255
 # loglevel of Tangram, also possible 'warn' or 'error'
     logLevel: ''
     mapzenapikey: 'vector-tiles-KXs7X8B'
