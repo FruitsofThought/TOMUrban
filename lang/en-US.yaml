@@ -1,0 +1,178 @@
+locale: en
+phrases:
+    undefined: Unknown Text
+    home:
+        title: Other Maps
+        wikipediahover: Open Wikipedia Page for
+        osmwikihover: Open OpenStreetMap Wiki for
+        wikidatahover: Open Wikidata Page for
+        ctrlclicknewwindow: Press CTRL to open in new tab
+        panels:
+            home:
+                title: Info
+                pane: TOM is an application that allows you to show a set of maps using OpenStreetMap data that you normally do not see. It integrates with Wikipedia and Wikidata, is completely multi-lingual and very fast. This example installation shows several Architecture focused maps in The Netherlands and Tanzanzia.
+            sceneswitcher:
+                title: Scene Switcher
+            legend:
+                title: Legend
+                locationtitle: Navigate the map to an example location
+            locations:
+                title: Sample Locations
+                pane: These are some sample locations with highlights of this map
+            info:
+                title: Info
+            images:
+                title: Images
+            wms:
+                title: Historic Maps
+                layers: layers
+                transparancy: Transparancy
+            settings:
+                title: Settings
+                en-US: English
+                nl-NL: Nederlands
+            wikipedia:
+                title: Wikipedia
+            wikipediadoc:
+                title: Wikipedia Documentation
+            osmwiki:
+                title: OpenStreetMap Wiki
+            wikidata:
+                title: Wikidata
+        scenes:
+            publicbuildings:
+                publicbuildings:
+                    title: Public
+                    description: Government, Religious, Civic and other public buildings
+                residential:
+                    title: Residential
+                    description: Houses, Apartments, Houseboats etc.
+                commercial:
+                    title: Commercial
+                    description: Industrial, offices, shops etc.
+                infrastructure:
+                    title: Infrastructural
+                    description: Electricity, storage, datacentres etc.
+                primaryroads:
+                    title: Primary Roads
+                    description: Roads that lead to the next city.
+    keys:
+        name: Name
+        kind: Kind
+        kind_detail: Kind Detail
+        landuse_kind: Landuse
+        id: OpenStreetMap ID
+        source: Source
+        start_date: Opening Date
+        area: Area (in square meters)
+        website: Website
+        wikipedia: Wikipedia Page
+        wikidata: Wikidata Item
+        image: Image
+        tourism:
+            tourism: Tourism
+            yes: Touristic
+            attraction: Attraction
+            museum: Museum
+        historic:
+            historic: Historical
+            yes: General Historical
+            building: Building
+            monument: Monument
+            city_gate: City Gate
+            fortress: Fort
+            monastery: Monastery
+            memorial: Memorial
+            church: Church
+            castle: Castle
+            railway_station: Railway Station
+            ruins: Ruins
+        heritage:
+            heritage: Heritage
+            1: Unesco
+            2: National
+            3: Sub-National
+            4: Local
+        "heritage:operator":
+                operator: Operator
+                whc: UNESCO
+                rce: Rijksdienst voor het Cultureel Erfgoed
+                Rijksmonuments: Provincial monuments
+        "ref:whc": World Heritage Site ID
+        building:
+            building: General Building
+            commercial: Commercial
+            house: Family House
+            residential: Residential
+            apartments: Apartments
+            church: Church
+            mosque: Mosque
+            retail: Retail
+            industrial: Industrial
+            warehouse: Warehouse
+            houseboat: Houseboat
+            civic: Civic
+            public: Public
+            office: Office
+            university: University
+            hospital: Hospital
+            school: School
+            train_station: Train Station
+            construction: Construction
+            container: Container
+            ruins: Ruins
+            bunker: Bunker
+        "building:architecture":
+            architecture: Architecture Style
+            art_deco: Art Deco
+            art_nouveau: Art Nouveau
+            gothic: Gothic
+            neo_gothic: Gothic Revival
+            indian: Indian
+            eclectic: Eclectic
+            modernism: Modernism
+            classic_swahili: Classic Swahili
+            stone_town: Stone Town
+            british_colonial: British Colonial
+            omani: Omani
+            modern: Modern
+            hyper_modern: Hypermodern
+            rijnllandse_gothic: Rhineland Gothic
+        "building:architecture:typology":
+            typology: Architectural Typology
+            high_street: High Street
+            single_storey_swahili: Single Storey Swahili
+            modern_multi_storey_swahili: Modern Multi Storey Swahili
+            modern_swahili: Modern Swahili
+            post_modern_multi_storey_swahili: Post Modern Multi Storey Swahili
+            suburban_villa: Suburban Villa
+            others: Others
+            apartment_block: Apartment Block
+            indian_shopfront: Indian Shop Front
+            modern_indian_shopfront: Modern Indian Shop Front
+            government: Government
+            mosque: Mosque
+            church: Church
+            market_stall: Market Stall
+            madrasa: Madrasa
+            public_school: State School
+            arcade_building: Arcade Building
+        "building:material":
+            material: Building Material
+            concrete: Concrete
+        "building:structure":
+            structure: Building Structure
+            cement_blocks: Cement Blocks
+            concrete_frame_and_cement_blocks: Concrete Frame and Cement Blocks
+            coralstone_and_lime: Coral Stone and Lime
+            wattle_and_daub: Wattle and Daub
+            makeshift: Makeshift
+        "building:condition":
+            condition: Condition
+            poor: Poor
+            average: Average
+            good: Good
+            ruinous: In Ruins
+        place:
+            town: Town
+        population: Population
